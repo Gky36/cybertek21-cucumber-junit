@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Wikipedia Search Functionality
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 80.633 s <<< FAILURE! - in Wikipedia Search Functionality
+Wikipedia Search Functionality.Wikipedia Search Functionality Header Verification #4  Time elapsed: 8.802 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Ni[c]ola Tesla> but was:<Ni[k]ola Tesla>
+

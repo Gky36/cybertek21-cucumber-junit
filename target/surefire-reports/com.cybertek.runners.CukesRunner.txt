@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.cybertek.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 59.775 s <<< FAILURE! - in com.cybertek.runners.CukesRunner
+Wikipedia Search Functionality.Wikipedia Search Functionality Header Verification #4  Time elapsed: 8.382 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Ni[c]ola Tesla> but was:<Ni[k]ola Tesla>
+
